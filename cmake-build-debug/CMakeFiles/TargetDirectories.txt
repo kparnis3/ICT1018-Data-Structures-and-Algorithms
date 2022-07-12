@@ -1,0 +1,13 @@
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question9.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question1.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question3.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question4.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question8.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question5.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question6.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question7.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question10.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question11.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/Question12.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/CLionProjects/Project/DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

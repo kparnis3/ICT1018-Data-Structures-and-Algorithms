@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(DSA C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Question1 Question1.c)
+add_executable(Question3 Question3.c)
+add_executable(Question4 Question4.c)
+add_executable(Question8 Question8.c)
+add_executable(Question5 Question5.c)
+add_executable(Question6 Question6.c)
+add_executable(Question7 Question7.c)
+add_executable(Question9 Question9.c)
+add_executable(Question10 Question10.c)
+add_executable(Question11 Question11.c)
+add_executable(Question12 Question12.c)
